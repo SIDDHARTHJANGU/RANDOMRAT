@@ -7,6 +7,13 @@
   text-decoration: none !important;
   box-sizing: border-box;
 }
+.my-container {
+  max-width: 1600px !important;
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
 .font-family-press {
   font-family: "press start 2P";
 }
@@ -16,8 +23,8 @@
 .fs-14 {
   font-size: 14px;
 }
-.fs-15 {
-  font-size: 15px;
+.fs-13 {
+  font-size: 13px;
 }
 .fs-16 {
   font-size: 16px;
@@ -81,7 +88,7 @@
   z-index: -1;
 }
 .mt-43 {
-  margin-top: 40px;
+  margin-top: 33px;
 }
 .mt-21 {
   margin-top: 20px;
@@ -172,5 +179,10 @@ p {
   }
   .w-20 {
     width: 20%;
+  }
+  .vector {
+    position: absolute !important;
+    left: 6px;
+    top: 112px;
   }
 }
