@@ -94,13 +94,18 @@ p {
   margin-top: 0;
   margin-bottom: 0 !important;
 }
+.vector {
+  position: absolute !important;
+  left: 6px;
+  top: 68px;
+}
 
 @media (max-width: 576px) {
   .fs-28 {
     font-size: 18px;
   }
   .fs-85 {
-    font-size: 36px !important;
+    font-size: 32px !important;
   }
   .fs-20 {
     font-size: 15px;
@@ -123,7 +128,7 @@ p {
 }
 @media (max-width: 768px) {
   .fs-85 {
-    font-size: 50px !important;
+    font-size: 50px;
   }
   .fs-28 {
     font-size: 16px;
@@ -132,7 +137,7 @@ p {
     font-size: 17px;
   }
   .fs-15 {
-    font-size: 12px;
+    font-size: 11px !important;
   }
   .w_80 {
     width: 80%;
