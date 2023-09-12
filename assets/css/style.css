@@ -78,13 +78,13 @@
 .img-1 {
   position: absolute;
   left: 0;
-  bottom: -18px;
+  bottom: -36px;
   z-index: -1;
 }
 .img-2 {
   position: absolute;
   right: 0;
-  bottom: -18px;
+  bottom: -36px;
   z-index: -1;
 }
 .mt-43 {
